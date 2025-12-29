@@ -13,7 +13,8 @@ I need to get more cookies but I can't keep clicking while I'm at work! Having t
 ## Installation
 
 <!-- chrome link here -->
-<!-- firefox link here -->
+
+Firefox - <https://addons.mozilla.org/addon/cookie-clicker-auto-buttons/>
 
 Download the .zip file from GitHub then install in your browser of choice. Tested and confirmed to work in Firefox.
 
